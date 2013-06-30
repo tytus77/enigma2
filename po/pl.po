@@ -712,10 +712,10 @@ msgid "Action on short powerbutton press"
 msgstr ""
 
 msgid "Activate"
-msgstr ""
+msgstr "Aktywacja"
 
 msgid "Activate PiP"
-msgstr ""
+msgstr "Aktywuj PIP"
 
 #
 msgid "Activate Picture in Picture"
@@ -748,10 +748,10 @@ msgid "Add"
 msgstr "Dodaj"
 
 msgid "Add AutoTimer"
-msgstr ""
+msgstr "Dodaj AutoTimer"
 
 msgid "Add Timer"
-msgstr ""
+msgstr "Dodaj Timer"
 
 msgid "Add a auto timer for current event"
 msgstr ""
@@ -890,7 +890,7 @@ msgid "Advanced video enhancement setup"
 msgstr "Zaawansowane ustawienia korekcji obrazu"
 
 msgid "Advanced video setup"
-msgstr ""
+msgstr "Zaawansowane ustawiena obrazu"
 
 #
 msgid "After event"
@@ -918,7 +918,7 @@ msgid "All ages"
 msgstr ""
 
 msgid "All satellites"
-msgstr ""
+msgstr "Wszystkie satelity"
 
 msgid "Allocate"
 msgstr ""
@@ -1030,7 +1030,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete\n"
 "the following backup:\n"
-msgstr ""
+msgstr "Jesteś pewien, że chcesz skasować?"
 
 msgid "Are you sure you want to delete all selected logs:\n"
 msgstr ""
@@ -1043,7 +1043,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to delete this:\n"
 " "
-msgstr "Jesteś pewien, że chcesz wyjść?"
+msgstr "Jesteś pewien, że chcesz skasować?"
 
 #
 msgid "Are you sure you want to exit this wizard?"
@@ -1134,7 +1134,7 @@ msgid "Audio language selection 4"
 msgstr "Preferowana ścieżka audio 4"
 
 msgid "Audio options..."
-msgstr ""
+msgstr "Opcje Audio"
 
 #
 #, fuzzy, python-format
@@ -1186,7 +1186,7 @@ msgid "Auto focus commencing ..."
 msgstr ""
 
 msgid "Auto language selection"
-msgstr ""
+msgstr "Automatyczne wybieranie jezyka"
 
 #
 msgid "Auto scart switching"
@@ -1201,16 +1201,16 @@ msgid "Automatic Scan"
 msgstr "Skanowanie automatyczne"
 
 msgid "Automatic image backup"
-msgstr ""
+msgstr "Automatyczny backup obrazu"
 
 msgid "Automatic refresh"
-msgstr ""
+msgstr "Automatyczne odswieżanie"
 
 msgid "Automatic save"
-msgstr ""
+msgstr "Automatycznie zapamitaj"
 
 msgid "Automatic scan"
-msgstr ""
+msgstr "Automatycznie skanuj"
 
 msgid "Automatic setting backup"
 msgstr ""
@@ -2736,7 +2736,7 @@ msgstr "Nie zmieniaj"
 #
 #, fuzzy
 msgid "Do not record"
-msgstr "Nagraj"
+msgstr "Nie Nagrywaj"
 
 #
 msgid ""
@@ -4814,10 +4814,10 @@ msgid "Move Picture in Picture"
 msgstr "Przesuń PiP"
 
 msgid "Move Up/Down"
-msgstr ""
+msgstr "Przesuń Góra/Dól"
 
 msgid "Move down a page"
-msgstr ""
+msgstr "Przesuń strone w dól"
 
 #
 msgid "Move east"
@@ -5008,12 +5008,12 @@ msgid "Network Setup"
 msgstr "Ustawienia sieci"
 
 msgid "Network Test"
-msgstr ""
+msgstr "Test Sieci"
 
 #
 #, fuzzy
 msgid "Network mounts"
-msgstr "Test sieci"
+msgstr "Zamontuj sieć"
 
 #, fuzzy
 msgid "Network name (SSID)"
@@ -5581,7 +5581,7 @@ msgid "Password (httpwd)"
 msgstr ""
 
 msgid "Password:"
-msgstr ""
+msgstr "haslo:"
 
 #
 #, fuzzy
@@ -6507,7 +6507,7 @@ msgid "Remove Confirmation"
 msgstr "Konfiguracja tunera"
 
 msgid "Remove Service"
-msgstr ""
+msgstr "Usuń Serwis"
 
 #
 msgid "Remove a mark"
@@ -6524,7 +6524,7 @@ msgid "Remove bookmark"
 msgstr "Usuń zakładkę"
 
 msgid "Remove completed timers after (days)"
-msgstr ""
+msgstr "Usuń zakończone timery po (dniach)"
 
 #
 msgid "Remove currently selected title"
@@ -6573,7 +6573,7 @@ msgid "Rename failed!"
 msgstr ""
 
 msgid "Rename to:"
-msgstr ""
+msgstr "Zmień na:"
 
 #, python-format
 msgid "Renamed %s!"
@@ -6841,16 +6841,16 @@ msgid "Save"
 msgstr "Zapisz"
 
 msgid "Save EPG"
-msgstr ""
+msgstr "Zapamitaj EPG"
 
 msgid "Save and record"
-msgstr ""
+msgstr "Zapisz i nagrywaj"
 
 msgid "Save and stop"
-msgstr ""
+msgstr "Zapisz i zatrzymaj"
 
 msgid "Save every (in hours)"
-msgstr ""
+msgstr "Zapisz po (w godzinach)"
 
 #
 #, fuzzy
@@ -6858,13 +6858,13 @@ msgid "Save playlist"
 msgstr "Zapisz playlistę"
 
 msgid "Save timeshift as movie and continue recording"
-msgstr ""
+msgstr "Zapamitaj timesshift jako film i kontynuluj nagrywanie"
 
 msgid "Save timeshift as movie and stop recording"
-msgstr ""
+msgstr "Zapamitaj timeshift jako film i zatrzymaj nagrywanie"
 
 msgid "Saving EPG Cache..."
-msgstr ""
+msgstr "Zapamitaj EPG Cache..."
 
 msgid "Saving Timeshift files"
 msgstr ""
@@ -6882,7 +6882,7 @@ msgid "Scaling mode"
 msgstr "Tryb skalowania"
 
 msgid "Scan"
-msgstr ""
+msgstr "Skanuj"
 
 #
 msgid "Scan "
@@ -6951,7 +6951,7 @@ msgid "Scrolling Speed"
 msgstr ""
 
 msgid "Search"
-msgstr ""
+msgstr "Przszukaj"
 
 msgid "Search IMDb for information about current event."
 msgstr ""
@@ -7170,10 +7170,10 @@ msgid "Select your provider, and press OK to start the scan"
 msgstr "Wybierz providera i wciśnij OK aby rozpocząć skanowanie"
 
 msgid "Send"
-msgstr ""
+msgstr "Wyslij"
 
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Wyslij potwierdzenie"
 
 #
 msgid "Send DiSEqC"
@@ -7414,7 +7414,7 @@ msgid "Settings"
 msgstr "Ustawienia"
 
 msgid "Settings..."
-msgstr ""
+msgstr "Ustawienia..."
 
 #
 msgid "Setup"
@@ -8130,7 +8130,7 @@ msgid "Stop timer recording"
 msgstr "Zatrzymaj nagrywanie"
 
 msgid "Stop timeshift"
-msgstr ""
+msgstr "Zatrzymaj timeshift"
 
 msgid "Stop timeshift while recording?"
 msgstr ""
@@ -8986,22 +8986,22 @@ msgid "Timeshift not possible!"
 msgstr "Timeshift niemożliwy!"
 
 msgid "Timeshift save failed!"
-msgstr ""
+msgstr "Blad zapsu Timeshift!"
 
 msgid "Timeshift save recording (Select event)"
-msgstr ""
+msgstr "Zapisz Timeshift (wybierz wydarzenie)"
 
 msgid "Timeshift save recording (stop after current event)"
-msgstr ""
+msgstr "Zapisz Timeshift (zatrzymaj po tym wydarzeniu)"
 
 msgid "Timeshift saved to your harddisk!"
-msgstr ""
+msgstr "Timeshift zapisane na dysku!"
 
 msgid "Timeshift settings"
-msgstr ""
+msgstr "Ustawienia Timeshift"
 
 msgid "Timeshift will get saved at end of event!"
-msgstr ""
+msgstr "Timeshift zostanie zapisany na koncu wydarzenia!"
 
 msgid "Timeshift-save action on zap"
 msgstr ""
@@ -9174,7 +9174,7 @@ msgid "Tuner configuration"
 msgstr "Konfiguracja tunera"
 
 msgid "Tuner settings"
-msgstr ""
+msgstr "Ustawienia Tunera"
 
 msgid "Tuner slot"
 msgstr ""
@@ -10931,7 +10931,7 @@ msgid "free diskspace"
 msgstr "Wolna przestrzeń dyskowa"
 
 msgid "full"
-msgstr ""
+msgstr "pelny"
 
 msgid "further education"
 msgstr ""
@@ -11702,7 +11702,7 @@ msgid "user defined"
 msgstr "Zdefiniowane przez użytkownika"
 
 msgid "using:"
-msgstr ""
+msgstr "uzyj:"
 
 msgid "variety show"
 msgstr ""
