@@ -127,7 +127,7 @@ msgid " (TV)"
 msgstr ""
 
 msgid " and"
-msgstr ""
+msgstr "i"
 
 #
 #, fuzzy
@@ -315,12 +315,12 @@ msgstr "%s (%s)\n"
 #. TRANSLATORS: The satellite with name '%s' is no longer used after a configuration change. The user is asked whether or not the satellite should be deleted.
 #, python-format
 msgid "%s is no longer used. Should it be deleted?"
-msgstr ""
+msgstr "%s nie jest w użyciu. Czy chcesz go skasować"
 
 #, python-format
 msgid "%s updated package available"
 msgid_plural "%s updated packages available"
-msgstr[0] ""
+msgstr[0] "%s dostepnych aktualizacji"
 msgstr[1] ""
 msgstr[2] ""
 
@@ -356,7 +356,7 @@ msgid "(show optional DVD audio menu)"
 msgstr "(pokaż opcjonalne menu audio DVD)"
 
 msgid "* = Restart Required"
-msgstr ""
+msgstr "Wymagany restart"
 
 #
 msgid "* Only available if more than one interface is active."
@@ -451,10 +451,10 @@ msgstr ""
 #
 #, fuzzy
 msgid "3D Surround"
-msgstr "Dźwięk"
+msgstr ""
 
 msgid "3D setup"
-msgstr ""
+msgstr "Ustawienia 3D"
 
 msgid "3X"
 msgstr ""
@@ -502,13 +502,15 @@ msgid "A"
 msgstr "A"
 
 msgid "A background update check is is progress, please wait a few minutes and try again."
-msgstr ""
+msgstr "Trwa sprawdzanie aktualizacji w tle, należy odczekać kilka minut i spróbuj ponownie"
 
 #, python-format
 msgid ""
 "A configuration file (%s) has been modified since it was installed.\n"
 "Do you want to keep your modifications?"
 msgstr ""
+"Plik konfiguracyjny (% s) został zmodyfikowany pod czas instalacji.\n"
+"Czy chcesz zachować zmiany?"
 
 #
 #, python-format
@@ -593,6 +595,8 @@ msgid ""
 "A recording has been started:\n"
 "%s"
 msgstr ""
+"Nagrywanie zostało rozpoczęte:\n"
+"%s"
 
 #
 msgid ""
@@ -614,7 +618,7 @@ msgid "A recording is currently running. Please stop the recording before trying
 msgstr "Nagrywanie w toku . Zatrzymaj nagrywanie przed uruchomieniem miernika sygnału."
 
 msgid "A repeating timer or just once?"
-msgstr ""
+msgstr "Powtarzać timer lub tylko raz?"
 
 #
 #, python-format
@@ -666,7 +670,7 @@ msgstr ""
 "Wyłączyć TV i spróbować ponownie?\n"
 
 msgid "A/V settings"
-msgstr ""
+msgstr "Ustawienia A/V"
 
 #
 msgid "AA"
@@ -706,16 +710,16 @@ msgid "Accesspoint:"
 msgstr "Punkt dostępowy:"
 
 msgid "Action on long powerbutton press"
-msgstr ""
+msgstr "Akcja dla dugiego nacinicia przycisku power"
 
 msgid "Action on short powerbutton press"
-msgstr ""
+msgstr "Akcja dla krótkiego nacinicia przycisku power"
 
 msgid "Activate"
-msgstr ""
+msgstr "Aktywuj"
 
 msgid "Activate PiP"
-msgstr ""
+msgstr "Aktywuj PiP"
 
 #
 msgid "Activate Picture in Picture"
@@ -731,13 +735,13 @@ msgid "Activate network settings"
 msgstr "Aktywuj ustawienia sieci"
 
 msgid "Activate the configured network settings."
-msgstr ""
+msgstr "Aktywuj ustawienia sieci"
 
 msgid "Active"
-msgstr ""
+msgstr "Aktywny"
 
 msgid "Active clients"
-msgstr ""
+msgstr "Aktywni klienci"
 
 #
 msgid "Adapter settings"
@@ -748,13 +752,13 @@ msgid "Add"
 msgstr "Dodaj"
 
 msgid "Add AutoTimer"
-msgstr ""
+msgstr "Dodaj AutoTimer"
 
 msgid "Add Timer"
-msgstr ""
+msgstr "Dodaj Timer"
 
 msgid "Add a auto timer for current event"
-msgstr ""
+msgstr "Dodaj auto timer dla bieżącego zdarzenia"
 
 #
 msgid "Add a mark"
@@ -775,7 +779,7 @@ msgid "Add a record timer"
 msgstr "Dodaj timer"
 
 msgid "Add a record timer for current event"
-msgstr ""
+msgstr "Dodaj nagrywanie timera dla bieżącego zdarzenia"
 
 msgid "Add a zap timer for current event"
 msgstr ""
@@ -810,16 +814,16 @@ msgid "Add provider"
 msgstr "Dodaj providera"
 
 msgid "Add recording (enter recording duration)"
-msgstr ""
+msgstr "Dodaj nagrywanie (wprowadź czas nagrywania)"
 
 msgid "Add recording (enter recording endtime)"
-msgstr ""
+msgstr "Dodaj nagranie (wpisz koniec nagrywania)"
 
 msgid "Add recording (indefinitely)"
-msgstr ""
+msgstr "Dodaj nagranie (na czas nieokreślony)"
 
 msgid "Add recording (stop after current event)"
-msgstr ""
+msgstr "Dodaj nagranie (zatrzymaj po obecnym wydarzeniu)"
 
 #
 #, fuzzy
@@ -850,13 +854,13 @@ msgid "Add/remove timer for current event"
 msgstr "Dodaj/usuń timer dla bieżącej audycji"
 
 msgid "Adding schedule..."
-msgstr ""
+msgstr "Dodaj harmonogram..."
 
 msgid "Additional Info"
-msgstr ""
+msgstr "Dodaj informacje"
 
 msgid "Address"
-msgstr ""
+msgstr "Adres"
 
 msgid "Adjust 3D settings"
 msgstr "Dostosuj ustawienia 3d"
@@ -890,7 +894,7 @@ msgid "Advanced video enhancement setup"
 msgstr "Zaawansowane ustawienia korekcji obrazu"
 
 msgid "Advanced video setup"
-msgstr ""
+msgstr "Zawansowane ustawienia video"
 
 #
 msgid "After event"
@@ -1033,10 +1037,10 @@ msgid ""
 msgstr ""
 
 msgid "Are you sure you want to delete all selected logs:\n"
-msgstr ""
+msgstr "Jestes pewny że chcesz skasować wszystkie zaznaczone logi:\n"
 
 msgid "Are you sure you want to delete this log:\n"
-msgstr ""
+msgstr "Jestes pewny że chcesz skasować ten log:\n"
 
 #
 #, fuzzy
@@ -1096,7 +1100,7 @@ msgid "Ask user"
 msgstr "Zapytaj użytkownika"
 
 msgid "Aspect ratio"
-msgstr ""
+msgstr "Proporcje obrazu"
 
 #
 #, fuzzy
@@ -1109,7 +1113,7 @@ msgid "Assigned services/provider:"
 msgstr "Przyporządkowane kanały/provider:"
 
 msgid "At End:"
-msgstr ""
+msgstr "Przy końcu"
 
 msgid "Attach a file"
 msgstr ""
@@ -1204,19 +1208,19 @@ msgid "Automatic image backup"
 msgstr ""
 
 msgid "Automatic refresh"
-msgstr ""
+msgstr "Automatycznie odswież"
 
 msgid "Automatic save"
-msgstr ""
+msgstr "Automatycznie zapamietaj"
 
 msgid "Automatic scan"
-msgstr ""
+msgstr "Automatycznie skanuj"
 
 msgid "Automatic setting backup"
-msgstr ""
+msgstr "Zrób automatycznie kopie ustawień"
 
 msgid "Automatically start timeshift after"
-msgstr ""
+msgstr "Automatycznie startuj timeshift po"
 
 msgid "Automatically update Client/Server View?"
 msgstr ""
@@ -1255,7 +1259,7 @@ msgid "Background"
 msgstr "Tło"
 
 msgid "Background check"
-msgstr ""
+msgstr "Sprawdzaj w tle"
 
 #
 #, fuzzy
@@ -1271,22 +1275,22 @@ msgid "Background delete speed"
 msgstr "Szybkość usuwania plików w tle"
 
 msgid "Backup Manager"
-msgstr ""
+msgstr "Menager kopi zapasowych"
 
 msgid "Backup completed."
-msgstr ""
+msgstr "Kopia zapasowa wykonana"
 
 #
 msgid "Backup failed."
-msgstr "Tworzenie backupu bie powiódło się."
+msgstr "Tworzenie kopi zapasowej nie powiodło się."
 
 #
 msgid "Backup is running..."
-msgstr "Tworzenie backupu..."
+msgstr "Tworzenie kopi zapasowej..."
 
 #
 msgid "Backup system settings"
-msgstr "Backup ustawień systemowych"
+msgstr "Kopia zapasowa ustawień systemowych"
 
 #
 msgid "Band"
@@ -1346,7 +1350,7 @@ msgid "Block noise reduction"
 msgstr "Blokowa redukcja szumów"
 
 msgid "Blue"
-msgstr ""
+msgstr "Niebieski"
 
 #
 msgid "Bookmarks"
@@ -1366,10 +1370,10 @@ msgid "Brightness"
 msgstr "Jasność"
 
 msgid "Brightness (Normal)"
-msgstr ""
+msgstr "Jasność (normalna)"
 
 msgid "Brightness (Standby)"
-msgstr ""
+msgstr "Jasność"
 
 msgid "Buffers:"
 msgstr ""
@@ -1406,10 +1410,10 @@ msgid "Bus: "
 msgstr "Bus:"
 
 msgid "Button"
-msgstr ""
+msgstr "Przycisk"
 
 msgid "Button setup"
-msgstr ""
+msgstr "Konfiguracja przycisków"
 
 msgid "By Team ViX"
 msgstr ""
@@ -1509,7 +1513,7 @@ msgid "Cached:"
 msgstr ""
 
 msgid "Calculate"
-msgstr ""
+msgstr "Obliczam"
 
 #, fuzzy
 msgid "Calculate all positions"
@@ -1519,7 +1523,7 @@ msgid "Calculation complete"
 msgstr ""
 
 msgid "Calibrate"
-msgstr ""
+msgstr "Kalibruj"
 
 msgid "Can be used for different fps between external subtitles and video."
 msgstr ""
@@ -1532,7 +1536,7 @@ msgid "Cancel save timeshift as movie"
 msgstr ""
 
 msgid "Cannot delete file"
-msgstr ""
+msgstr "Nie moge skasować pliku"
 
 msgid "Cannot determine"
 msgstr ""
@@ -1578,10 +1582,10 @@ msgid "Change pin code"
 msgstr "Zmień kod pin"
 
 msgid "Change recording (duration)"
-msgstr ""
+msgstr "Zmień nagrywanie (czas trwania)"
 
 msgid "Change recording (endtime)"
-msgstr ""
+msgstr "Zmień nagrywanie (koniec)"
 
 msgid "Change repeat and delay settings?"
 msgstr "Zmienić ustawienia powtórzeń i opóźnienia?"
@@ -1603,7 +1607,7 @@ msgid "Change step size"
 msgstr "Zmień rozmiar kroku"
 
 msgid "Changelog"
-msgstr ""
+msgstr "Lista zmian"
 
 #
 msgid "Channel"
@@ -1616,10 +1620,10 @@ msgid "Channel 1 at start"
 msgstr ""
 
 msgid "Channel Info"
-msgstr ""
+msgstr "Inforacje o kanale"
 
 msgid "Channel List"
-msgstr ""
+msgstr "Lista kanalów"
 
 msgid "Channel list context menu"
 msgstr ""
@@ -1679,13 +1683,13 @@ msgid "Check"
 msgstr "Sprawdź"
 
 msgid "Check every (hours)"
-msgstr ""
+msgstr "Sprawdzaj co (godzin)"
 
 msgid "Check the internet connection"
-msgstr ""
+msgstr "Sprawdz polaczenie internetowe"
 
 msgid "Check the internet connection again"
-msgstr ""
+msgstr "Sprawdz ponownie polaczenie internetowe"
 
 msgid "Checking Feeds"
 msgstr ""
@@ -1699,10 +1703,10 @@ msgid "Checking filesystem..."
 msgstr "Sprawdzanie systemu plików..."
 
 msgid "Checking for Updates..."
-msgstr ""
+msgstr "Sprawdzam uaktualnienia..."
 
 msgid "Checking the internet connection"
-msgstr ""
+msgstr "Sprawdz polaczenie internetowe"
 
 #, python-format
 msgid ""
@@ -2206,10 +2210,10 @@ msgstr ""
 
 #
 msgid "Continue playing"
-msgstr "Kontynuuj odtwarzanie"
+msgstr "Kontynuluj odtwarzanie"
 
 msgid "Continues"
-msgstr ""
+msgstr "Kontynuluj"
 
 msgid "Continues play (loop)"
 msgstr ""
@@ -2522,7 +2526,7 @@ msgid "Delay for external subtitles"
 msgstr "Opóźnienie przed rozpoczęciem powtórzenia klawisza:"
 
 msgid "Delay:"
-msgstr ""
+msgstr "Opóźnienie"
 
 #
 msgid "Delete"
@@ -2533,7 +2537,7 @@ msgid "Delete %s?"
 msgstr ""
 
 msgid "Delete Confirmation"
-msgstr ""
+msgstr "Skasuj potwierdzenie"
 
 #
 msgid "Delete entry"
@@ -2866,7 +2870,7 @@ msgid "Do you want to reboot your %s %s"
 msgstr "Czy chcesz przywrócić własne ustawienia?"
 
 msgid "Do you want to reboot your receiver?"
-msgstr ""
+msgstr "Chcesz zrestartować odbiornik"
 
 #
 msgid "Do you want to remove the package:\n"
@@ -2900,7 +2904,7 @@ msgid "Do you want to upgrade the package:\n"
 msgstr "Chcesz zaktualizować pakiet:\n"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Nie zapisuj"
 
 #
 msgid "Don't stop current event but disable coming events"
@@ -2927,7 +2931,7 @@ msgid "Download .NFI-files for USB-flasher"
 msgstr ""
 
 msgid "Download plugins"
-msgstr ""
+msgstr "Pobierz pluginy"
 
 #
 msgid "Downloading"
@@ -2982,10 +2986,10 @@ msgid "EPG Cache Check"
 msgstr ""
 
 msgid "EPG Search"
-msgstr ""
+msgstr "Szukaj EPG"
 
 msgid "EPG filename"
-msgstr ""
+msgstr "Nazwa pliku EPG"
 
 #
 msgid "EPG language selection 1"
@@ -2999,7 +3003,7 @@ msgid "EPG location"
 msgstr ""
 
 msgid "EPG settings"
-msgstr ""
+msgstr "Ustawienia EPG"
 
 #
 #, python-format
@@ -3062,10 +3066,10 @@ msgid "Education/Science/..."
 msgstr ""
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Upływający"
 
 msgid "Elapsed & Remaining"
-msgstr ""
+msgstr "Upływający i Pozostały"
 
 #
 msgid "Electronic Program Guide"
@@ -3221,7 +3225,7 @@ msgid "Ethernet network interface"
 msgstr "Interfejs sieciowy ethernet"
 
 msgid "Event Info"
-msgstr ""
+msgstr "Informacja o wydarzeniu"
 
 msgid "Event font size"
 msgstr ""
@@ -3391,7 +3395,7 @@ msgid "Fast DiSEqC"
 msgstr "Szybki DiSEqC"
 
 msgid "Fast Scan"
-msgstr ""
+msgstr "Szybkie skanowanie"
 
 #
 msgid "Fast epoch"
@@ -3732,7 +3736,7 @@ msgid "Greek"
 msgstr "Grecki"
 
 msgid "Grey"
-msgstr ""
+msgstr "Szary"
 
 msgid "Guard interval"
 msgstr ""
@@ -3779,7 +3783,7 @@ msgid "Hebrew"
 msgstr "Hebrajski"
 
 msgid "Height"
-msgstr ""
+msgstr "Wysokość"
 
 msgid "Helps setting up your dish"
 msgstr ""
@@ -3982,10 +3986,10 @@ msgstr ""
 "Jeśli jesteś zadowolony z rezultatu wciśnij OK."
 
 msgid "Image Information"
-msgstr ""
+msgstr "Informacja o Image"
 
 msgid "Image Manager"
-msgstr ""
+msgstr "Menadzer Image"
 
 #
 #, fuzzy
@@ -4124,7 +4128,7 @@ msgid "Install a new image with your web browser"
 msgstr "Instaluj nowe image z przeglądarki www"
 
 msgid "Install channel list"
-msgstr ""
+msgstr "Instaluje liste kanalów"
 
 #
 msgid "Install extensions."
@@ -4177,7 +4181,7 @@ msgid "Instant recordings location"
 msgstr ""
 
 msgid "Interface"
-msgstr ""
+msgstr "Interfejs"
 
 #
 msgid "Interface: "
@@ -4226,7 +4230,7 @@ msgid "Ipkg"
 msgstr "Ipkg"
 
 msgid "Is this setting ok?"
-msgstr ""
+msgstr "Ustawienia sa ok?"
 
 msgid "Is this video mode ok?"
 msgstr ""
@@ -4251,19 +4255,19 @@ msgid "Job View"
 msgstr "Podgląd zadań"
 
 msgid "Jump back 24 hours"
-msgstr ""
+msgstr "Skocz do tylu o 24 godziny"
 
 msgid "Jump first press in channel selection*"
 msgstr ""
 
 msgid "Jump forward 24 hours"
-msgstr ""
+msgstr "Skocz do przodu o 24 godziny"
 
 msgid "Jump to beginning of list"
 msgstr ""
 
 msgid "Jump to current time"
-msgstr ""
+msgstr "Skocz do obecnego czasu"
 
 #
 #, fuzzy
@@ -4513,7 +4517,7 @@ msgid "Load"
 msgstr "Otwórz"
 
 msgid "Load EPG"
-msgstr ""
+msgstr "Otwórz EPG"
 
 #
 #, fuzzy
@@ -4521,7 +4525,7 @@ msgid "Load playlist"
 msgstr "Załaduj playlistę"
 
 msgid "Load/Save"
-msgstr ""
+msgstr "Otwórz/Zapamitaj"
 
 msgid "Local box"
 msgstr ""
@@ -4541,7 +4545,7 @@ msgid "Lock ratio"
 msgstr "Lokalizacja"
 
 msgid "Log Manager"
-msgstr ""
+msgstr "Menadzer logów"
 
 #
 msgid "Log results to harddisk"
@@ -4634,7 +4638,7 @@ msgid "Manual configuration"
 msgstr "Ręczna konfiguracja"
 
 msgid "Manual scan"
-msgstr ""
+msgstr "Reczne skanowanie"
 
 #
 msgid "Manual transponder"
@@ -4693,7 +4697,7 @@ msgid "Medium is not empty!"
 msgstr "Nośnik nie jest pusty!"
 
 msgid "Memory"
-msgstr ""
+msgstr "Pamieć"
 
 msgid "Memory Information"
 msgstr ""
@@ -4802,7 +4806,7 @@ msgid "Move"
 msgstr "Przenieś"
 
 msgid "Move Left/Right"
-msgstr ""
+msgstr "Przesuń lewo/prawo"
 
 #
 #, fuzzy
@@ -4814,10 +4818,10 @@ msgid "Move Picture in Picture"
 msgstr "Przesuń PiP"
 
 msgid "Move Up/Down"
-msgstr ""
+msgstr "Przesuń góra/dól"
 
 msgid "Move down a page"
-msgstr ""
+msgstr "Przesuń na dól strone"
 
 #
 msgid "Move east"
@@ -4836,7 +4840,7 @@ msgid "Move to position X"
 msgstr "Idź na pozycję"
 
 msgid "Move up a page"
-msgstr ""
+msgstr "Przesuń do góry strone"
 
 #
 msgid "Move west"
@@ -5372,10 +5376,10 @@ msgid "Now, use the contrast setting to turn up the brightness of the background
 msgstr "Teraz użyj ustawień kontrastu aby ustawić jak nawiększą jasność tła, ale tak, żeby nadal widać było różnicę pomiędzy dwoma najjaśniejszymi odcieniami, Jeśli skończyłeś, wciśnij OK."
 
 msgid "Number"
-msgstr ""
+msgstr "Numer"
 
 msgid "Number of rows"
-msgstr ""
+msgstr "Ilosć wierszy"
 
 msgid "OE Changes"
 msgstr ""
@@ -5405,7 +5409,7 @@ msgid "OSD name request"
 msgstr "Żądanie nazwy OSD"
 
 msgid "OSD settings"
-msgstr ""
+msgstr "Ustawienia OSD"
 
 msgid "OScam Info"
 msgstr ""
@@ -5431,7 +5435,7 @@ msgid "On reaching the end of a file during playback, you can choose the box's b
 msgstr ""
 
 msgid "Once per day"
-msgstr ""
+msgstr "Jeden na dzień"
 
 #
 msgid "One"
@@ -5581,7 +5585,7 @@ msgid "Password (httpwd)"
 msgstr ""
 
 msgid "Password:"
-msgstr ""
+msgstr "Haso:"
 
 #
 #, fuzzy
@@ -5973,10 +5977,10 @@ msgid "Please wait... Loading list..."
 msgstr "Czekaj... Ładowanie listy..."
 
 msgid "Plugin Browser"
-msgstr ""
+msgstr "Przegladarka Pluginów"
 
 msgid "Plugin details"
-msgstr ""
+msgstr "Wiecej info o Pluginaie"
 
 #
 msgid "Plugin manager activity information"
@@ -6405,7 +6409,7 @@ msgid "Recording in progress"
 msgstr "Nagrywanie w toku"
 
 msgid "Recording settings"
-msgstr ""
+msgstr "Ustawienia nagrywania"
 
 msgid "Recording type"
 msgstr "Typ nagrania"
@@ -6423,10 +6427,10 @@ msgid "Recordings always have priority"
 msgstr "Nagrywanie zawsze ma priorytet"
 
 msgid "Red"
-msgstr ""
+msgstr "Czerwony"
 
 msgid "Red button..."
-msgstr ""
+msgstr "Przcisk czerwony..."
 
 msgid "Reduce time scale"
 msgstr ""
@@ -6475,7 +6479,7 @@ msgid "Reload black-/white lists"
 msgstr "Przeładuj Black-/Whitelists"
 
 msgid "Reloading EPG Cache..."
-msgstr ""
+msgstr "Przeladuj EPG Cache..."
 
 #
 msgid "Reloading bouquets and services..."
@@ -6485,7 +6489,7 @@ msgid "Remaining"
 msgstr ""
 
 msgid "Remaining & Elapsed"
-msgstr ""
+msgstr "Pozostały i Upływający"
 
 #
 msgid "Remember service PIN"
@@ -6554,7 +6558,7 @@ msgid "Removing"
 msgstr "Usuwanie"
 
 msgid "Removing Service"
-msgstr ""
+msgstr "Usuń serwis"
 
 #
 #, python-format
@@ -6679,7 +6683,7 @@ msgid "Restore system settings"
 msgstr "Przywróć ustawienia systemowe"
 
 msgid "Restoring..."
-msgstr ""
+msgstr "Przywracanie..."
 
 #
 msgid "Resume from last position"
@@ -6750,7 +6754,7 @@ msgid "Run how often ?"
 msgstr ""
 
 msgid "Running"
-msgstr ""
+msgstr "Uruchomiony"
 
 #
 msgid "Russian"
@@ -6841,16 +6845,16 @@ msgid "Save"
 msgstr "Zapisz"
 
 msgid "Save EPG"
-msgstr ""
+msgstr "Zapamitaj EPG"
 
 msgid "Save and record"
-msgstr ""
+msgstr "Zapamitaj i nagraj"
 
 msgid "Save and stop"
-msgstr ""
+msgstr "Zapamitaj i zatrzymaj
 
 msgid "Save every (in hours)"
-msgstr ""
+msgstr "Zapamitaj po (w godzinach)"
 
 #
 #, fuzzy
@@ -6858,10 +6862,10 @@ msgid "Save playlist"
 msgstr "Zapisz playlistę"
 
 msgid "Save timeshift as movie and continue recording"
-msgstr ""
+msgstr "Zapisz timeshift jako film i kontunuluj nagrywanie"
 
 msgid "Save timeshift as movie and stop recording"
-msgstr ""
+msgstr "Zapisz timeshift jako film i zatrzymaj nagrywanie"
 
 msgid "Saving EPG Cache..."
 msgstr ""
@@ -6882,7 +6886,7 @@ msgid "Scaling mode"
 msgstr "Tryb skalowania"
 
 msgid "Scan"
-msgstr ""
+msgstr "Skanuj"
 
 #
 msgid "Scan "
@@ -7079,7 +7083,7 @@ msgid "Select files/folders to backup"
 msgstr "Wybierz pliki/foldery do backupu"
 
 msgid "Select folders"
-msgstr ""
+msgstr "Wybierz foldery"
 
 msgid "Select how to activate the Quick EPG mode:"
 msgstr ""
@@ -7170,7 +7174,7 @@ msgid "Select your provider, and press OK to start the scan"
 msgstr "Wybierz providera i wciśnij OK aby rozpocząć skanowanie"
 
 msgid "Send"
-msgstr ""
+msgstr "Wyslij"
 
 msgid "Send Confirmation"
 msgstr ""
@@ -7414,7 +7418,7 @@ msgid "Settings"
 msgstr "Ustawienia"
 
 msgid "Settings..."
-msgstr ""
+msgstr "Ustawienia..."
 
 #
 msgid "Setup"
@@ -7591,7 +7595,7 @@ msgid "Show extended description"
 msgstr "Pokaż rozszerzony opis"
 
 msgid "Show extensions..."
-msgstr ""
+msgstr "Pokaż rozszeżenia"
 
 #
 msgid "Show icon for new/unseen items"
@@ -7829,10 +7833,10 @@ msgid "Size: "
 msgstr ""
 
 msgid "Skin Setting"
-msgstr ""
+msgstr "Ustawienia skórki"
 
 msgid "Skin setup"
-msgstr ""
+msgstr "Ustawienia skórki"
 
 #
 msgid "Skins"
@@ -8130,10 +8134,10 @@ msgid "Stop timer recording"
 msgstr "Zatrzymaj nagrywanie"
 
 msgid "Stop timeshift"
-msgstr ""
+msgstr "Zatrzymaj timeshift"
 
 msgid "Stop timeshift while recording?"
-msgstr ""
+msgstr "Zatrzymaj timeshift podczas nagrywania "
 
 msgid "Stop's timeshift being used if a recording is in progress. (adviseable for usb sticks)"
 msgstr ""
@@ -8296,10 +8300,10 @@ msgid "Switch to playlist"
 msgstr "Przejdź do playlisty"
 
 msgid "Switch to previous channel"
-msgstr ""
+msgstr "Przelacz na poprzedni kanal"
 
 msgid "Switch to previous channel in history"
-msgstr ""
+msgstr "Przelacz na poprzedni kanal z histori"
 
 #
 #, fuzzy
@@ -8320,7 +8324,7 @@ msgid "Sync failure moving back to origin !"
 msgstr ""
 
 msgid "Sync time using"
-msgstr ""
+msgstr "Synchronizuj czas"
 
 msgid "Synchronize systemtime using transponder or internet."
 msgstr ""
@@ -8475,6 +8479,8 @@ msgid ""
 "The IMDb plugin is not installed!\n"
 "Please install it."
 msgstr ""
+"IMDb plugin nie jest zainstalowany!\n"
+"Zainstaluj go."
 
 msgid ""
 "The MediaPlayer plugin is not installed!\n"
@@ -8903,7 +8909,7 @@ msgid "Time scale"
 msgstr "Przedział czasowy"
 
 msgid "Time settings"
-msgstr ""
+msgstr "Ustawienia czasu"
 
 msgid "Time to execute command or script"
 msgstr ""
@@ -8989,19 +8995,19 @@ msgid "Timeshift save failed!"
 msgstr ""
 
 msgid "Timeshift save recording (Select event)"
-msgstr ""
+msgstr "Zapisuje Timeshift (wybierz wydarzenie)"
 
 msgid "Timeshift save recording (stop after current event)"
-msgstr ""
+msgstr "Zapisuje Timeshift (zatrzymaj po tym wydarzeniu))"
 
 msgid "Timeshift saved to your harddisk!"
-msgstr ""
+msgstr "Zapisuje Timeshift na dysk twardy"
 
 msgid "Timeshift settings"
-msgstr ""
+msgstr "Ustwienia Timeshift"
 
 msgid "Timeshift will get saved at end of event!"
-msgstr ""
+msgstr "Timeshift zostanie zapisany na końcu tego wydarzenia!"
 
 msgid "Timeshift-save action on zap"
 msgstr ""
@@ -9285,7 +9291,7 @@ msgid "Update"
 msgstr "Aktualizacja"
 
 msgid "Update channel list only"
-msgstr ""
+msgstr "Aktualizuj tylko liste kanalów"
 
 #, python-format
 msgid "Update completed, %d package was installed."
@@ -9315,7 +9321,7 @@ msgid "Updating software catalog"
 msgstr "Aktualizowanie katalogu oprogramowania"
 
 msgid "Upgrade and reboot system"
-msgstr ""
+msgstr "Aktualizuj i zrestartuj"
 
 #
 msgid "Upgrade finished."
@@ -9610,7 +9616,7 @@ msgid "Videosize"
 msgstr ""
 
 msgid "View"
-msgstr ""
+msgstr "Zabacz"
 
 #
 msgid "View Movies..."
@@ -10697,7 +10703,7 @@ msgid "cooking"
 msgstr ""
 
 msgid "copy"
-msgstr ""
+msgstr "kopiuj"
 
 #
 msgid "copy to bouquets"
@@ -10867,7 +10873,7 @@ msgid "experimental film/video"
 msgstr ""
 
 msgid "extensions."
-msgstr ""
+msgstr "rozszerzenie."
 
 msgid "failed"
 msgstr ""
@@ -11352,7 +11358,7 @@ msgid "remove this mark"
 msgstr "Usuń ten znacznik"
 
 msgid "rename"
-msgstr ""
+msgstr "zmień"
 
 #
 msgid "repeat playlist"
