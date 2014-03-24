@@ -2834,7 +2834,7 @@ msgstr "Nie zmieniaj"
 #
 #, fuzzy
 msgid "Do not record"
-msgstr "Nagraj"
+msgstr "Nie nagrywaj"
 
 #
 msgid ""
@@ -6497,7 +6497,7 @@ msgid "Recording in progress"
 msgstr "Nagrywanie w toku"
 
 msgid "Recording settings"
-msgstr ""
+msgstr "Ustawienia nagrywania"
 
 msgid "Recording type"
 msgstr "Typ nagrania"
@@ -6954,7 +6954,7 @@ msgid "Save timeshift as movie and continue recording"
 msgstr ""
 
 msgid "Save timeshift as movie and stop recording"
-msgstr ""
+msgstr "Zapisz timeshift jako film i zatrzymaj nagrywanie"
 
 msgid "Saving EPG Cache..."
 msgstr ""
@@ -7749,7 +7749,7 @@ msgid "Show menu"
 msgstr "Pokaż menu tagów"
 
 msgid "Show message when recording starts"
-msgstr ""
+msgstr "Pokaż informacje kiedy zacznie się nagrywanie"
 
 msgid "Show movie lengths in movielist"
 msgstr ""
@@ -8244,7 +8244,7 @@ msgstr "Zatrzymaj nagrywanie i usuń"
 
 #, fuzzy
 msgid "Stop recording now"
-msgstr "Zatrzymaj nagrywanie"
+msgstr "Zatrzymaj nagrywanie teraz"
 
 #
 msgid "Stop test"
@@ -8260,13 +8260,13 @@ msgstr "Zatrzymaj testowanie poziomu po # udanych transponderach"
 
 #, fuzzy
 msgid "Stop timer recording"
-msgstr "Zatrzymaj nagrywanie"
+msgstr "Zatrzymaj nagrywanie timera"
 
 msgid "Stop timeshift"
 msgstr "Zatrzymaj timeshift"
 
 msgid "Stop timeshift while recording?"
-msgstr ""
+msgstr "Zatrzymaj timeshift kiedy jest nagrywanie?"
 
 msgid "Stopped"
 msgstr "Zatrzymany"
@@ -10319,7 +10319,7 @@ msgid "Yes, but don't save timeshift as movie"
 msgstr "Tak, i usuń ten film"
 
 msgid "Yes, but save timeshift as movie and continue recording"
-msgstr ""
+msgstr "Tak, zapamiętaj film i kontunułuj nagrywanie"
 
 msgid "Yes, but save timeshift as movie and stop recording"
 msgstr ""
@@ -10453,7 +10453,7 @@ msgid "You seem to be in timeshift!"
 msgstr ""
 
 msgid "You seem to be in timeshift, Do you want to leave timeshift ?"
-msgstr ""
+msgstr "Jesteś w trybie timeshift, Czy chcesz opuścić timeshift?"
 
 msgid "You system does not support ext4"
 msgstr "Twój system nie wspiera ext4"
